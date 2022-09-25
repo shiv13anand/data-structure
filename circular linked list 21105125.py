@@ -72,7 +72,7 @@ cllist.printList()
 
 
 #With reference to above example of circular linked list.
-#Line 18 i.e. while(temp->next!=head) establishes that the traversing element/variable has reached the first element.
+#Line 39 i.e. while(temp->next!=head) establishes that the traversing element/variable has reached the first element.
 #We Know that in circular linked list last node of linked list points to head of that linked list, hence we can check if any node points to head of linked list then that node is the end of circular linked list.
 
 
