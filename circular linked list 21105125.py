@@ -105,7 +105,7 @@ cllist.printList()
     #It is also used in computer networking for token scheduling.
     
 3. In my field:-(ece)
-    # as my field is electronics and communication it was very difficult to think of practical applications but ther are some for eg if we build a mechatronics system like escalators er can make use of circular linked list in circular escalators.
+    # as my field is electronics and communication it was very difficult to think of practical applications but ther are some for eg if we build a mechatronics system like escalators we can make use of circular linked list in circular escalators.
     #Allocating CPU to resources
 
 
