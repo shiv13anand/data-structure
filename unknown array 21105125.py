@@ -1,5 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
+
+# name:shivansh anand 21105125
+  branch:ece
 
 # In[22]:
 
@@ -45,7 +46,7 @@ def findPos(a, key):
 # Driver function
     
 
-arr = [ 1,2,3,4,5,6,7,8,9,-1,-1,-1,-1,-1 ] #unknown size means infinte size array as explained earlier
+arr = [ 1,2,3,4,5,6,7,8,9,-1,-1,-1,-1,-1 ] #unknown size means infinte size array as explained earlier in line 29
 ans = findPos(arr,8)
 if ans == -1:
     print ("Element not found")
@@ -53,13 +54,6 @@ else:
     print("Element found at index",ans) 
 
 
-# In[17]:
-
-
-
-
-
-# In[ ]:
 
 
 
